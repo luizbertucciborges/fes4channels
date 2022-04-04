@@ -25,10 +25,10 @@ The architecture of the functional electrical stimulation device is presented be
 ### Firmware
 
 To embed the firmware on the ESP-32 (as used in this project), the following features are required (all open projects):
--VScode - https://code.visualstudio.com/download
--Plattformio - https://platformio.org/
--Python - https://www.python.org/downloads/
--Mosquitto Broker - https://mosquitto.org/download/
+* VScode - https://code.visualstudio.com/download
+* Plattformio - https://platformio.org/
+* Python - https://www.python.org/downloads/
+* Mosquitto Broker - https://mosquitto.org/download/
 
 ## Inertial Sensor
 
@@ -36,9 +36,9 @@ JAMA was an inertial sensor open access project based on the IMU GY-80 + ESP-32.
 
 ## Developers
 
-◾ André Dantas - https://github.com/lordcobisco
+* André Dantas - https://github.com/lordcobisco
 
-◾ Luiz Bertucci- https://github.com/luizbertucciborges
+* Luiz Bertucci- https://github.com/luizbertucciborges
 
 
 
