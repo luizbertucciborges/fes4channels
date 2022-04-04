@@ -24,6 +24,21 @@ The architecture of the functional electrical stimulation device is presented be
 
 ### Firmware
 
-
+To embed the firmware on the ESP-32 (as used in this project), the following features are required (all open projects):
+-VScode
+-Plattformio
+-Python
+-Mosquitto Broker
 
 ## Inertial Sensor
+
+JAMA was an inertial sensor open access project based on the IMU GY-80 + ESP-32. It is an option for the feedback sensor for closed loop control. All project information can be found at https://github.com/tuliofalmeida/pyjama.
+
+## Developers
+
+◾ André Dantas - https://github.com/lordcobisco
+
+◾ Luiz Bertucci- https://github.com/luizbertucciborges
+
+
+
