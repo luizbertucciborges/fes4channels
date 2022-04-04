@@ -7,7 +7,7 @@ Fes4channels is an open access project, developed at the Edmond and Lily Safra I
 
 ### Modules and Connections 
 
-To develop electrostimulation hardware, it is necessary a module to increase voltage (Boost), a module to manipulate the signal (H-bridge) and a module for data processing.
+To develop electrostimulation hardware, it is necessary a module to voltage amplification (Boost), a module to signal manipulation (H-bridge) and a module for data processing.
 
 ![MontagemHardware](https://user-images.githubusercontent.com/75434453/161472988-60682ab0-1fb1-44a5-afe8-ff088ba89f04.png)
 
@@ -25,10 +25,10 @@ The architecture of the functional electrical stimulation device is presented be
 ### Firmware
 
 To embed the firmware on the ESP-32 (as used in this project), the following features are required (all open projects):
--VScode
--Plattformio
--Python
--Mosquitto Broker
+-VScode - https://code.visualstudio.com/download
+-Plattformio - https://platformio.org/
+-Python - https://www.python.org/downloads/
+-Mosquitto Broker - https://mosquitto.org/download/
 
 ## Inertial Sensor
 
